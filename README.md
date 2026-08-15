@@ -3,7 +3,7 @@
 Founding Engineer at Lux Vitae, building ANTIK - a luxury computer for creatives, driven by natural input.
 Currently also a Software Engineer Intern at Millennium Space Systems (Boeing), working on
 on-prem LLM serving and agentic telemetry diagnosis.
-Previously worked with AWS on a partner project with live demo at AWS LA summit.
+Previously worked with AWS on a partner project with live demo at AWS Generative AI summit.
 
 CS + Linguistics at UCLA, class of 2027.
 
