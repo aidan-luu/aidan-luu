@@ -1,15 +1,19 @@
 # Aidan Luu
 
-Founding Engineer at Lux Vitae, building ANTIK - a luxury computer for creatives, driven by natural input.
-Currently also a Software Engineer Intern at Millennium Space Systems (Boeing), working on
-on-prem LLM serving and agentic telemetry diagnosis.
-Previously worked with AWS on a partner project with live demo at AWS Generative AI summit.
+I build systems that bring applied AI into real products.
 
-CS + Linguistics at UCLA, class of 2027.
+- Founding Engineer at Lux Vitae, building ANTIK, a computer for creatives driven by gesture, voice, and on-device intelligence.
+- Software Engineer Intern at Millennium Space Systems (Boeing), working on on-prem LLM serving and agentic telemetry diagnosis.
+- Computer Science and Linguistics at UCLA, graduating June 2027.
 
-Most recent work in closed company repos, hence the less active profile.
+Previously, I built a UCLA discovery agent with AWS engineers and demoed it at the AWS Generative AI Summit.
 
-Love to build and chat!
+## Selected work
 
-Contact Me:
-luunhantuan@gmail.com · [LinkedIn](https://www.linkedin.com/in/aidan-luu)
+- [Verdict](https://github.com/aidan-luu/verdict) - a Rust and Next.js workspace for rigorous forecasting and comparative calibration.
+- [Music Genre Classifier](https://github.com/aidan-luu/music-genre-classifier) - an audio classification application built with TensorFlow and Streamlit.
+- [RecipeFit](https://github.com/aidan-luu/RecipeFit) - a collaborative full-stack application for recipe discovery, dietary filtering, and social features.
+
+Love to build and chat.
+
+**Contact:** [luunhantuan@gmail.com](mailto:luunhantuan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aidan-luu)
